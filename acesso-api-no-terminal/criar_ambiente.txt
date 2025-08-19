@@ -1,0 +1,7 @@
+COMANDOS PARA CRIAR O AMBIENTE PYTHON
+
+mkdir meu_ambiente
+python3 -m venv meu_ambiente
+source meu_ambiente/bin/activate
+pip install requests
+deactivate
